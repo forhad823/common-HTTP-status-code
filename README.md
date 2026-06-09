@@ -15,6 +15,7 @@
 500 Internal Server Error
 503 Service Unavailable
 ```
+These 11 status codes cover roughly **90–95% of typical CRUD API development** in the software industry.
 
 ## 1xx — Informational (Rarely Used in API Development)
 
@@ -79,4 +80,3 @@ These indicate a problem on the server side.
 
 
 
-These 11 status codes cover roughly **90–95% of typical CRUD API development** in the software industry.
